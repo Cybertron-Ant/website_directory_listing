@@ -1,14 +1,8 @@
 
-Submit anyw website links you want listed to be added to the Bing search engine index:
+Add a meta tag to your sites default/home page
 
-https://www.bruceclay.com/seo/submit-website
+Copy and paste the <meta> tag into your site's home page. It should go in the <head> section, before the first <body> section.
 
+<meta name="msvalidate.01" content="09D54FE96561001336474549708FA0A9" />
 
-https://www.bing.com/webmasters?tid=27968725-ee45-4632-b410-04ba4447958e#
-
-
-website links to be added:
-
-http://www.allamandahaiti.com
-http://www.sunsetcovebeachhotel.com
-http://www.coconutvillahotel.com/
+To stay verified, don't remove the meta tag even after verification succeeds.
