@@ -1,8 +1,9 @@
 
-Add a meta tag to your sites default/home page
 
-Copy and paste the <meta> tag into your site's home page. It should go in the <head> section, before the first <body> section.
+Carry out the various tasks relating to:
 
-<meta name="msvalidate.01" content="09D54FE96561001336474549708FA0A9" />
+Facebook Page promotions
+Website Directory Listings
+Quora SEO Tas
 
-To stay verified, don't remove the meta tag even after verification succeeds.
+On completion of each task, enter an “x” in the first column (ü) of the task sheet and enter the date the task was completed.
